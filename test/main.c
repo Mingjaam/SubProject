@@ -19,7 +19,5 @@ int main(void) {
 	printf("%d", sum);
 
 	return 0;
-}
 
-
-
+}//5701576
